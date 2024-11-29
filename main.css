@@ -1,0 +1,12 @@
+h1 {
+    font-size: 50px;
+    padding: 15px;
+    font-style: italic;
+}
+p {
+    font-size: 35px;
+    font-style: italic;
+}
+footer {
+    padding-top: 10px;
+}
